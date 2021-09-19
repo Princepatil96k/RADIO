@@ -1,7 +1,7 @@
 {
-    "name": "LOVELY RADIO BOT",
+    "name": "PRINCE PATIL RADIO BOT",
     "description": "A RADIO PLAYER TO STREAM RADIO IN VOICE CHAT",
-    "logo": "https://telegra.ph/file/3add51ef0351f4ea0dac6.jpg",
+    "logo": "https://telegra.ph/file/9c71bd26b7772df92684a.jpg",
     "keywords": ["pytgcalls", "pyrogram", "telegram bot"],
     "env": {
         "SESSION_NAME": {
