@@ -44,7 +44,7 @@ async def help(client,message):
 		await message.reply_text(HELP)
 
 
-@app.on_message(filters.command('lovely', prefixes='/'))
+@app.on_message(filters.command('Prince', prefixes='/'))
 async def start(client,message):
 	get =await client.get_chat_member(message.chat.id,message.from_user.id)
 	status = get. status
