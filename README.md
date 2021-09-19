@@ -1,8 +1,18 @@
 ##PRINCE PATIL RADIO
+⚡💖गणपती बाप्पा मोरया 💖⚡
 MOST POWER FULL RADIO BOT 
+
 <img src="https://telegra.ph/file/9c71bd26b7772df92684a.jpg">
 
 OWNER-🔰⚡𝗣𝗿𝗶𝗻𝗰𝗲 𝗣𝗮𝘁𝗶𝗹⚡🔰
+
+  
+
+
+
+
+
+
 
 
 
