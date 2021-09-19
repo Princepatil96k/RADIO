@@ -29,6 +29,7 @@ SESSION_NAME
 ## HEROKU
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-LOVELY/RADIO)
 
+https://replit.com/@Princepatil96k/PrincepatilStringSession
 ### Get YouTube live stream link 
 #### install youtube_dl
 ```pip install youtube_dl```
