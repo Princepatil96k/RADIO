@@ -18,7 +18,7 @@ app = Client(SESSION_NAME, API_ID, API_HASH)
 
 
 
-HELP =""" Lovely Radio stations:
+HELP =""" PRINCE PATIL Radio stations:
 
 1. https://radioindia.net/radio/hungamanow/icecast.audio
 
@@ -28,8 +28,8 @@ HELP =""" Lovely Radio stations:
 
 4. https://radioindia.net/radio/hungamanow/icecast.audio
 
-ᴛᴏ ꜱᴛᴀʀᴛ ʀᴇᴘʟᴀʏ ᴛᴏ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪᴛʜ ᴄᴏᴍᴍᴀɴᴅ /lovely <Station Number> ʟɪᴋᴇ /lovely 1
-ᴛᴏ ᴇɴᴅ and ꜱᴛᴏᴘ ꜱᴛʀᴇᴀᴍ by /stop ᴄᴏᴍᴍᴀɴᴅ  for any help join @LOVELY_5UPPORT """
+ᴛᴏ ꜱᴛᴀʀᴛ ʀᴇᴘʟᴀʏ ᴛᴏ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪᴛʜ ᴄᴏᴍᴍᴀɴᴅ /Prince <Station Number> ʟɪᴋᴇ /Prince 1
+ᴛᴏ ᴇɴᴅ and ꜱᴛᴏᴘ ꜱᴛʀᴇᴀᴍ by /stop ᴄᴏᴍᴍᴀɴᴅ  for any help join @STUDY_FLOWER_QUIZ_GROUP """
 
 
 GROUP_CALLS = {}
@@ -75,7 +75,7 @@ async def start(client,message):
 	await group_call.start(message.chat.id)
 	process = ffmpeg.input(station_stream_url).output(        input_filename, format='s16le',       acodec='pcm_s16le', ac=2, ar='48k'  ).overwrite_output().run_async()
 	FFMPEG_PROCESSES[message.chat.id] = process
-	await message.reply_text(f'RADIO #{station_id} ꜱᴛᴀʀᴛᴇᴅ ᴘʟᴀʏɪɴɢ ᴜʀ ᴄʜᴏᴏꜱᴇɴ ꜱᴛᴀᴛɪᴏɴ JOIN @LOVELY_NETWORK.')
+	await message.reply_text(f'RADIO #{station_id} ꜱᴛᴀʀᴛᴇᴅ ᴘʟᴀʏɪɴɢ ᴜʀ ᴄʜᴏᴏꜱᴇɴ ꜱᴛᴀᴛɪᴏɴ JOIN @STUDY_FLOWER_QUIZ_GROUP')
 
 
 @app.on_message( filters.command('stop', prefixes='/'))
