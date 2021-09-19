@@ -1,7 +1,7 @@
 ##PRINCE PATIL RADIO
 MOST POWER FULL RADIO BOT 
 
-
+https://telegra.ph/file/9c71bd26b7772df92684a.jpg
 OWNER-🔰⚡𝗣𝗿𝗶𝗻𝗰𝗲 𝗣𝗮𝘁𝗶𝗹⚡🔰
 
 
