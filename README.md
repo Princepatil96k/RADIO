@@ -31,7 +31,7 @@ SESSION_NAME
 
 
 
-https://replit.com/@SpEcHiDe/GenerateStringSession
+
 
 ### Get YouTube live stream link 
 #### install youtube_dl
